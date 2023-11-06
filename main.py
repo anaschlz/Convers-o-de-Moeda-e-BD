@@ -63,5 +63,5 @@ def buscar_dados_no_banco():
     else:
         print("Nenhum dado encontrado no banco de dados.")
 
-# Chame a função para buscar e exibir os dados
+
 buscar_dados_no_banco()
